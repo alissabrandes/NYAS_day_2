@@ -25,6 +25,9 @@ $$f(x)=x^2$$
 ### Tracking Changes
 
 
+* `git diff`: shows changes not yet tracked
+
+
 
 
 
